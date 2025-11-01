@@ -1,31 +1,75 @@
-## 👋 Olá, eu sou o João Rodrigues!
+<!-- Banner opcional (pode adicionar um banner personalizado depois) -->
+<!-- ![Banner](https://raw.githubusercontent.com/joaoneto-hub/joaoneto-hub/main/banner.png) -->
 
-Sou desenvolvedor Front-end com 4 anos de experiência, apaixonado por tecnologia desde cedo. Atuo na construção de interfaces modernas, responsivas e de alta performance, com foco em aplicações web escaláveis e bem estruturadas.
+# 👋 Olá, eu sou o **João Rodrigues**
 
-🔧 Atualmente trabalho com:
-- **React.js**, **Next.js**, **TypeScript**
-- **Node.js**, **Firebase**
-- **Styled Components**, **Material UI**, **shadcn/ui**
-- **Webpack**, **Git**, **GitLab/GitHub**
-
-🎯 Tenho experiência com micro frontends utilizando **Module Federation**, consumo eficiente de **APIs REST**, integração com serviços externos e boas práticas de desenvolvimento moderno.
+Sou **Desenvolvedor Front-end** com mais de **4 anos de experiência**, apaixonado por transformar ideias em interfaces funcionais, bonitas e de alta performance.  
+Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturadas**, sempre buscando entregar o máximo em qualidade e experiência do usuário. 🚀
 
 ---
 
-### 🌐 Conecte-se comigo:
+## 💻 Tecnologias e Ferramentas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaonetrs/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoteles8182@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/joaoneto-hub)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaonetrs/)
+🧩 **Front-end**
+> React.js · Next.js · TypeScript · Styled Components · Material UI · shadcn/ui · TailwindCSS
 
----
+⚙️ **Back-end / Integrações**
+> Node.js · Firebase · REST APIs · Webpack · Module Federation
 
-### 📊 GitHub Stats
-
-![joaoneto-hub GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoneto-hub&show_icons=true&theme=dracula)
+🧠 **Outros**
+> Git · GitHub · GitLab · Vercel · CI/CD · Boas práticas de Clean Code
 
 ---
 
-💡 *Sempre aberto a novos desafios e colaborações!*
+## 🧩 O que me motiva
+
+💡 Acredito que **cada linha de código é uma oportunidade de criar algo que realmente impacte pessoas**.  
+Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter uma cultura de aprendizado constante.
+
+🧭 Estou sempre em busca de novos desafios e projetos onde eu possa unir **criatividade, performance e experiência de usuário**.
+
+---
+
+## ⚡ Destaques Técnicos
+
+- 💼 **Micro frontends** com Module Federation  
+- 🔗 Consumo eficiente de **APIs REST**  
+- 🎨 Criação de **interfaces modernas e responsivas**  
+- 🧱 Estruturação de **design systems** e componentização com **shadcn/ui**  
+- 🚀 Deploys otimizados e automação com **Vercel**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![João Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoneto-hub&show_icons=true&theme=dracula&hide_border=true&border_radius=8)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneto-hub&layout=compact&theme=dracula&hide_border=true&border_radius=8)
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-João%20Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaonetrs/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoteles8182@gmail.com)
+[![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/joaoneto-hub)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaonetrs/)
+
+</div>
+
+---
+
+## 💬 Sobre mim
+
+🎧 Quando não estou codando, gosto de ouvir música, acompanhar podcasts de tecnologia e explorar novas ideias de design.  
+💡 Sempre aberto a **colaborações, freelas e oportunidades** para construir algo incrível juntos.
+
+---
+
+> _“Código é arte escrita em lógica. Quanto mais simples e elegante, mais poderoso ele é.”_ — João Rodrigues
 
