@@ -14,7 +14,7 @@ Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturada
 > React.js · Next.js · TypeScript · Styled Components · Material UI · shadcn/ui · TailwindCSS
 
 ⚙️ **Back-end / Integrações**
-> Node.js · Firebase · REST APIs · Webpack · Module Federation
+> Node.js · Firebase · REST APIs
 
 🧠 **Outros**
 > Git · GitHub · GitLab · Vercel · CI/CD · Boas práticas de Clean Code
