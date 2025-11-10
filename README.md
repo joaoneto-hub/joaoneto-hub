@@ -6,6 +6,8 @@
 Sou **Desenvolvedor Front-end** com mais de **4 anos de experiência**, apaixonado por transformar ideias em interfaces funcionais, bonitas e de alta performance.  
 Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturadas**, sempre buscando entregar o máximo em qualidade e experiência do usuário. 🚀
 
+Atualmente, também sou **estudante de Java, Spring Boot, Docker e Banco de Dados (SQL)**, expandindo meus conhecimentos para o ecossistema **back-end e DevOps**.
+
 ---
 
 ## 💻 Tecnologias e Ferramentas
@@ -14,7 +16,10 @@ Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturada
 > React.js · Next.js · TypeScript · Styled Components · Material UI · shadcn/ui · TailwindCSS
 
 ⚙️ **Back-end / Integrações**
-> Node.js · Firebase · REST APIs
+> Node.js · Firebase · REST APIs · **Java (Spring Boot em aprendizado)**
+
+🐳 **Infraestrutura e Banco de Dados**
+> **Docker · SQL · PostgreSQL · MySQL**
 
 🧠 **Outros**
 > Git · GitHub · GitLab · Vercel · CI/CD · Boas práticas de Clean Code
@@ -26,7 +31,7 @@ Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturada
 💡 Acredito que **cada linha de código é uma oportunidade de criar algo que realmente impacte pessoas**.  
 Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter uma cultura de aprendizado constante.
 
-🧭 Estou sempre em busca de novos desafios e projetos onde eu possa unir **criatividade, performance e experiência de usuário**.
+🧭 Estou sempre em busca de novos desafios e projetos onde eu possa unir **criatividade, performance e experiência de usuário** — e agora também **robustez no back-end**.
 
 ---
 
@@ -36,7 +41,8 @@ Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter
 - 🔗 Consumo eficiente de **APIs REST**  
 - 🎨 Criação de **interfaces modernas e responsivas**  
 - 🧱 Estruturação de **design systems** e componentização com **shadcn/ui**  
-- 🚀 Deploys otimizados e automação com **Vercel**
+- 🚀 Deploys otimizados e automação com **Vercel**  
+- ☕ Aprendendo **Java + Spring Boot** e explorando **Docker** e **bancos de dados relacionais**
 
 ---
 
@@ -67,9 +73,9 @@ Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter
 ## 💬 Sobre mim
 
 🎧 Quando não estou codando, gosto de ouvir música, acompanhar podcasts de tecnologia e explorar novas ideias de design.  
+📚 Atualmente me dedicando a estudar **Java, Spring Boot, Docker e Banco de Dados**, ampliando minhas habilidades para o desenvolvimento **full stack**.  
 💡 Sempre aberto a **colaborações, freelas e oportunidades** para construir algo incrível juntos.
 
 ---
 
-> _“Código é arte escrita em lógica. Quanto mais simples e elegante, mais poderoso ele é.”_ — João Rodrigues
-
+> _“Código é arte escrita em lógica. Quanto mais simples e elegante, mais poderoso ele é.”_ 
