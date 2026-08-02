@@ -43,17 +43,6 @@ Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![João Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoneto-hub&show_icons=true&theme=dracula&hide_border=true&border_radius=8)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneto-hub&layout=compact&theme=dracula&hide_border=true&border_radius=8)
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
