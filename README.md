@@ -6,8 +6,6 @@
 Sou **Desenvolvedor Front-end** com mais de **4 anos de experiência**, apaixonado por transformar ideias em interfaces funcionais, bonitas e de alta performance.  
 Tenho foco em **aplicações web modernas**, **escaláveis** e **bem estruturadas**, sempre buscando entregar o máximo em qualidade e experiência do usuário. 🚀
 
-Atualmente, também sou **estudante de Java, Spring Boot, Docker e Banco de Dados (SQL)**, expandindo meus conhecimentos para o ecossistema **back-end e DevOps**.
-
 ---
 
 ## 💻 Tecnologias e Ferramentas
@@ -16,7 +14,7 @@ Atualmente, também sou **estudante de Java, Spring Boot, Docker e Banco de Dado
 > React.js · Next.js · TypeScript · Styled Components · Material UI · shadcn/ui · TailwindCSS
 
 ⚙️ **Back-end / Integrações**
-> Node.js · Firebase · REST APIs · **Java (Spring Boot em aprendizado)**
+> Node.js · Firebase · REST APIs ·
 
 🐳 **Infraestrutura e Banco de Dados**
 > **Docker · SQL · PostgreSQL · MySQL**
@@ -42,7 +40,6 @@ Gosto de trabalhar em equipes colaborativas, explorar novas tecnologias e manter
 - 🎨 Criação de **interfaces modernas e responsivas**  
 - 🧱 Estruturação de **design systems** e componentização com **shadcn/ui**  
 - 🚀 Deploys otimizados e automação com **Vercel**  
-- ☕ Aprendendo **Java + Spring Boot** e explorando **Docker** e **bancos de dados relacionais**
 
 ---
 
